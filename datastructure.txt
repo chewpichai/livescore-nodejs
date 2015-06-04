@@ -1,0 +1,43 @@
+id                            id
+league id                     status
+home id                       home score
+away id                       away score
+home                          half home score
+away                          half away score
+datetime                      home red card
+live datetime                 away red card
+status                        home yellow card
+home score                    away yellow card
+away score                    datetime
+half home score               live datetime
+half away score
+home red card                 lineup
+away red card                 explain
+home yellow card
+away yellow card
+
+
+score
+
+
+
+
+explain
+
+
+[1027646,58,23380,7752,'Arsenal Tula Youth','FC Terek Groznyi Youth','2015,4,15,08,00,00','2015,4,15,08,02,59',1,0,0,,,0,0,0,0,'5','16',,'',,'',18,'']
+
+[1222,'TTLd','Professional Tunisian League 2','#B1A7A7',0,'subleague.aspx?sclassid=1222','Tunisia Division 2']
+
+﻿<?xml  version="1.0" encoding="utf-8"?><c refresh='0'><h><![CDATA[1128787^1^0^0^^^0^0^2^0^2015,4,27,09,00,00^2015,4,27,09,01,07^^^^^]]></h></c>
+1107578^3^1^0^1^0^0^1^0^0^2015,4,15,10,30,00^2015,4,15,11,36,30^^^^^
+0:ID, 1:state, 2:score1, 3:score2, 4:half1, 5:half2, 6:card1, 7:card2, 8:yellow1, 9:yellow2, 10:time1, 11:time2, 12:explain, 13:lineup
+
+status
+  0   =
+  1   = playing first half
+  2   =
+  4   = playing second half
+  -1  =
+  -10 =
+  -14 =
